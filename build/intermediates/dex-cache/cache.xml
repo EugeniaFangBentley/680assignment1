@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Eugenia/Desktop/CS680/TipCaculator/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/Eugenia/Desktop/CS680/TipCaculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_c6e53bac144aaa9e88d2bfcde4cb1a1c7a1d1336/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Eugenia/Desktop/CS680/TipCaculator/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/Eugenia/Desktop/CS680/TipCaculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_c7ef56615d0373bf994092eadae2be92dfa149e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Eugenia/Desktop/CS680/TipCaculator/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aefa1a151979bdf22354118a45a8171702bb4fcc">
+        <dex dex="/Users/Eugenia/Desktop/CS680/TipCaculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_50779d798c6250454feca6763747440e88a7cc8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Eugenia/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/Eugenia/Desktop/CS680/TipCaculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_7159489752373656d42446c4a1461c50be7cba2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Eugenia/Desktop/CS680/TipCaculator/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/Eugenia/Desktop/CS680/TipCaculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_0fd42828bcda41446808c3dd62a3adb4ff20fc29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Eugenia/Desktop/CS680/TipCaculator/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/Eugenia/Desktop/CS680/TipCaculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_be60e8468c9dd4311d0cbc4ececec583f4bbb4b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Eugenia/Desktop/CS680/TipCaculator/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/Eugenia/Desktop/CS680/TipCaculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_cd60165fa8c578bb73c34a9c145d8f94b4475c30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Eugenia/Desktop/CS680/TipCaculator/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Eugenia/Desktop/CS680/TipCaculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_300ec902c4f5295f04f1e70e5262e995a29ae03d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Eugenia/Desktop/CS680/TipCaculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/Eugenia/Desktop/CS680/TipCaculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_c6948091a07ce78b5e09c0edcf963ea1af8ace0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Eugenia/Desktop/CS680/TipCaculator/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9093ebe20d1526546fdd4e5e608f0284a44daae3">
+        <dex dex="/Users/Eugenia/Desktop/CS680/TipCaculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b3ff614e008dc4457799cad347fc49ee1dc12d0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Eugenia/Desktop/CS680/TipCaculator/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/Eugenia/Desktop/CS680/TipCaculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_532ee4bffb1544851a799cc3ce2ff365165371e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Eugenia/Desktop/CS680/TipCaculator/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/Eugenia/Desktop/CS680/TipCaculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_c2b79bb196d76e266dbdf0e9220c7f9318374fe4/classes.dex" />
+    </item>
+
+</items>

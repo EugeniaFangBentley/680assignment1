@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Assignment #1"
+        />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:stretchColumns="*">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="8dp"
+                android:layout_span="4"
+                android:gravity="center"
+                android:text="Tip Caculator"
+                android:textSize="20sp"
+                android:background="#96efc9"
+                android:textColor="#666"
+                android:textStyle="bold"/>
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="1dp"
+                android:text="Check Amount"
+                android:layout_weight="1"
+                android:textColor="#333" />
+
+
+            <EditText
+                android:id="@+id/check_amt"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="1dp"
+                android:hint="Entern  Here"
+                android:layout_weight="1"
+                android:inputType="number"/>
+        </TableRow>
+
+        <TableRow
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="1dp"
+                android:text="Number of People"
+                android:layout_weight="1"
+                android:textColor="#333" />
+
+            <EditText
+                android:id="@+id/num_ppl"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="1dp"
+                android:hint="Entern  Here"
+                android:layout_weight="1"
+                android:inputType="number"/>
+        </TableRow>
+
+        <TableRow
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="1dp"
+                android:text="Tip Percentage(%)"
+                android:layout_weight="1"
+                android:textColor="#333" />
+
+            <EditText
+                android:id="@+id/tip_percentage"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="1dp"
+                android:hint="Entern  Here"
+                android:layout_weight="1"
+                android:inputType="number"/>
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal">
+
+            <Button
+                android:id="@+id/go"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="go"
+                android:background="#96efc9"
+                android:textColor="#666"
+                android:text="GO"
+                android:textStyle="bold"/>
+        </TableRow>
+        <TableRow
+            android:id="@+id/sum_row"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="1dp"
+                android:text="Total Bill"
+                android:textStyle="italic|bold"
+                android:layout_weight="1"
+                android:textColor="#19c2f5" />
+
+            <TextView
+                android:id="@+id/total_bill"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="1dp"
+                android:layout_weight="1" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="1dp"
+                android:text="Total Per Person"
+                android:layout_weight="1" />
+
+            <TextView
+                android:id="@+id/total_per_person"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="1dp"
+                android:layout_weight="1" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tip_row"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="1dp"
+                android:text="Total Tip"
+                android:layout_weight="1"
+                android:textColor="#333" />
+
+            <TextView
+                android:id="@+id/total_tip"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="1dp"
+                android:layout_weight="1" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="1dp"
+                android:text="Tip Per Person"
+                android:layout_weight="1" />
+
+            <TextView
+                android:id="@+id/tip_per_person"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="1dp"
+                android:layout_weight="1" />
+        </TableRow>
+
+    </TableLayout>
+
+
+</LinearLayout>
